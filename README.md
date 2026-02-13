@@ -592,3 +592,10 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+# NYC Airbnb Project
+
+## Project Links
+
+- **GitHub Repository**: https://github.com/EbruOrakcioglu/build-ml-pipeline-for-short-term-rental-prices
+- **W&B Project**: [https://wandb.ai/ebru95orakcioglu-hacettepe-university/nyc_airbnb?nw=nwuserebru95orakcioglu](https://wandb.ai/ebru95orakcioglu-hacettepe-university/nyc_airbnb?nw=nwuserebru95orakcioglu)
