@@ -593,7 +593,7 @@ Please, make sure all steps are using **the same** python version and that you h
 
 [License](LICENSE.txt)
 
-# NYC Airbnb Project
+# NYC Airbnb - ML Pipeline for Short-term Rental Prices
 
 ## Project Links
 
